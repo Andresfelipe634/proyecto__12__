@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+.contenedor-principal{
+    max-width: 500px;
+    border-radius: 10px;
+    background-color: rgb(114, 3, 3);
+    padding: 15px;
+    color: aliceblue;
+    margin: 100px auto;
+    font-family: Arial, sans-serif;
+}
+
+
+#caja-texto{
+    width: 100%;
+    height: 150%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+}
+
+.borde-rojo {
+    border-color: red !important;
+    color: red;
+
+}
+#contador{
+    text-align: right;
+}
